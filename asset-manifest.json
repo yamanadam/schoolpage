@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/schoolpage/static/css/main.c59cc657.css",
+    "main.js": "/schoolpage/static/js/main.1f4467da.js",
+    "static/media/yoga.webp": "/schoolpage/static/media/yoga.af1b559736d4b7778344.webp",
+    "index.html": "/schoolpage/index.html",
+    "main.c59cc657.css.map": "/schoolpage/static/css/main.c59cc657.css.map",
+    "main.1f4467da.js.map": "/schoolpage/static/js/main.1f4467da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c59cc657.css",
+    "static/js/main.1f4467da.js"
+  ]
+}
